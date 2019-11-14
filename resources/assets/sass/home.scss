@@ -1,0 +1,99 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.action-form {
+
+	margin: 24px;
+	padding: 24px 36px;
+	overflow: auto;
+
+	padding-bottom: 4px;
+
+	border: 1px solid #c9c9c9;
+	position: relative;
+
+	.ip {
+
+	}
+
+	.port {
+
+	}
+
+	.ip, .port {
+		font-size: 24px;
+		font-weight: bold;
+	}
+
+	.status-text {
+		// left: 36px;
+
+		margin: 0;
+		padding: 18px 0;
+
+		// position: absolute;
+	}
+}
+
+.about {
+	margin: 24px;
+	padding: 24px 36px;
+
+	border: 1px solid #c9c9c9;	
+}
+
+.privacy-policy {
+	margin: 24px;
+	padding: 24px 36px;
+
+	border: 1px solid #c9c9c9;
+
+	b {
+		font-size: 18px;
+	}
+}
+
+.term-of-services {
+	margin: 24px;
+	padding: 24px 36px;
+
+	border: 1px solid #c9c9c9;
+}
+
+.info {
+
+	padding: 24px;
+	margin: 24px;
+
+	border: 1px solid #c9c9c9;
+
+	h1 {
+		font-weight: bold;
+		font-size: 32px;
+	}
+
+	table {
+
+	}
+
+}
+
+.ping-button {
+	width: 86px;
+	margin: 12px;
+}
+
+
+
+
+
+
+
+
